@@ -40,6 +40,19 @@
                                 "urlToImage":"https://g.foolcdn.com/editorial/images/664882/1-ford-mach-e-suv.jpeg",
                                 "publishedAt":"2022-02-13T14:01:00Z",
                                 "content":"Despite a positive day for the S&amp;P 500, share prices of Ford Motor Company (NYSE:F) fell 9.7% last Friday after the company reported its fourth-quarter 2021 earnings that indicated slowing growth… [+5413 chars]"
-                        }
+                        },
+                        {
+                            "source": {
+                            "id": "wired",
+                            "name": "Wired"
+                            },
+                            "author": "David Nield",
+                            "title": "How to Set Up Lock Screens on All Your Devices",
+                            "description": "Your lock screen stands between your private data and unwelcome visitors—make sure you set it up correctly.",
+                            "url": "https://www.wired.com/story/how-to-set-up-lock-screens-all-devices/",
+                            "urlToImage": "https://media.wired.com/photos/6206f1fbc14aa6d334a5d890/191:100/w_1280,c_limit/Gear-How-to-Set-Lock-Screens-1254978528.jpg",
+                            "publishedAt": "2022-02-13T14:00:00Z",
+                            "content": "It may feel frustrating to have to enter your password every time you sit down at your laptop, or to have to scan your fingerprint every time you want to get into your phone, but these security measu… [+2549 chars]"
+                            }
     ]
 }
